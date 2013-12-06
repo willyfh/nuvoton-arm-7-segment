@@ -1,0 +1,30 @@
+*** Creating Trace Output File '.\obj\Smpl_Start_Kit.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\obj\core_cm0.o"'
+### List of Objects: adding '".\obj\system_nuc1xx.o"'
+### List of Objects: adding '".\obj\startup_nuc1xx.o"'
+### List of Objects: adding '".\obj\smpl_start_kit.o"'
+### List of Objects: adding '".\obj\lcd_driver.o"'
+### List of Objects: adding '".\obj\ascii_table.o"'
+### List of Objects: adding '".\obj\seven_segment.o"'
+### List of Objects: adding '".\obj\scankey.o"'
+### List of Objects: adding '".\obj\drvspi.o"'
+### List of Objects: adding '".\obj\drvsys.o"'
+### List of Objects: adding '".\obj\drvuart.o"'
+### List of Objects: adding '".\obj\drvgpio.o"'
+### List of Objects: adding '".\obj\retarget.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M0 ".\obj\core_cm0.o" ".\obj\system_nuc1xx.o" ".\obj\startup_nuc1xx.o" ".\obj\smpl_start_kit.o" ".\obj\lcd_driver.o" ".\obj\ascii_table.o" ".\obj\seven_segment.o" ".\obj\scankey.o" ".\obj\drvspi.o" ".\obj\drvsys.o" ".\obj\drvuart.o" ".\obj\drvgpio.o" ".\obj\retarget.o" --ro-base 0x00000000 --entry 0x00000000 --rw-base 0x20000000 --entry Reset_Handler --first __Vectors --strict --map --first='startup_NUC1xx.o(RESET)' --datacompressor=off --info=inline --entry Reset_Handler --autoat --summary_stderr --info summarysizes --map 
+--info sizes --info totals 
+ --list ".\lst\Smpl_Start_Kit.map" -o ".\obj\Smpl_Start_Kit.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\obj\Smpl_Start_Kit.axf'
+### ADS-LD Command File: '.\obj\Smpl_Start_Kit.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\obj\Smpl_Start_Kit.lnp', Handle=0x0000037C
+### Writing '.lnp' file
+### ADS-LD Command file '.\obj\Smpl_Start_Kit.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

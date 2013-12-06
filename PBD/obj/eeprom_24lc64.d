@@ -1,0 +1,12 @@
+.\obj\eeprom_24lc64.o: ..\..\..\Src\NUC1xx-LB_002\EEPROM_24LC64.c
+.\obj\eeprom_24lc64.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\obj\eeprom_24lc64.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h
+.\obj\eeprom_24lc64.o: ..\..\..\..\CMSIS\CM0\CoreSupport\core_cm0.h
+.\obj\eeprom_24lc64.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\eeprom_24lc64.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h
+.\obj\eeprom_24lc64.o: ..\..\..\Include\System\SysInfra.h
+.\obj\eeprom_24lc64.o: ..\..\..\Include\System\ModuleID.h
+.\obj\eeprom_24lc64.o: ..\..\..\Include\Driver\DrvGPIO.h
+.\obj\eeprom_24lc64.o: ..\..\..\Include\Driver\DrvI2C.h
+.\obj\eeprom_24lc64.o: ..\..\..\Include\Driver\DrvSYS.h
+.\obj\eeprom_24lc64.o: ..\..\..\Include\NUC1xx-LB_002\EEPROM_24LC64.h

@@ -1,0 +1,125 @@
+Dependencies for Project 'Smpl_Start_Kit', Target 'Smpl_Start_Kit': (DO NOT MODIFY !)
+F (..\..\..\..\CMSIS\CM0\CoreSupport\core_cm0.c)(0x4E1D70D8)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\ -I..\..\..\..\CMSIS\CM0\CoreSupport -I..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx -I..\..\..\Include -I..\..\..\Include\Driver -I..\..\..\Include\NUC1xx-LB_002-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-o .\obj\core_cm0.o --omf_browse .\obj\core_cm0.crf --depend .\obj\core_cm0.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
+F (..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.c)(0x4E1D70D8)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\ -I..\..\..\..\CMSIS\CM0\CoreSupport -I..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx -I..\..\..\Include -I..\..\..\Include\Driver -I..\..\..\Include\NUC1xx-LB_002-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-o .\obj\system_nuc1xx.o --omf_browse .\obj\system_nuc1xx.crf --depend .\obj\system_nuc1xx.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h)(0x4E1D70D8)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\CMSIS\CM0\CoreSupport\core_cm0.h)(0x4E1D70D8)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h)(0x4E1D70D8)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\System\SysInfra.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\System\ModuleID.h)(0x4E1D70F4)
+F (..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\startup\arm\startup_NUC1xx.s)(0x4E1D70D8)(--cpu Cortex-M0 --pd "__EVAL SETA 1" -g --16 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include--list .\lst\startup_nuc1xx.lst --xref -o .\obj\startup_nuc1xx.o --depend .\obj\startup_nuc1xx.d)
+F (.\Smpl_Start_Kit.c)(0x52A116EE)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\ -I..\..\..\..\CMSIS\CM0\CoreSupport -I..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx -I..\..\..\Include -I..\..\..\Include\Driver -I..\..\..\Include\NUC1xx-LB_002-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-o .\obj\smpl_start_kit.o --omf_browse .\obj\smpl_start_kit.crf --depend .\obj\smpl_start_kit.d)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7C554)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h)(0x4E1D70D8)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\CMSIS\CM0\CoreSupport\core_cm0.h)(0x4E1D70D8)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h)(0x4E1D70D8)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\System\SysInfra.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\System\ModuleID.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\Driver\DrvSYS.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\Driver\DrvGPIO.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\Driver\DrvI2C.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\NUC1xx-LB_002\EEPROM_24LC64.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\NUC1xx-LB_002\LCD_Driver.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\NUC1xx-LB_002\Seven_Segment.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\NUC1xx-LB_002\ScanKey.h)(0x4E1D70F4)
+F (..\..\..\Src\NUC1xx-LB_002\LCD_Driver.c)(0x4E1D7110)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\ -I..\..\..\..\CMSIS\CM0\CoreSupport -I..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx -I..\..\..\Include -I..\..\..\Include\Driver -I..\..\..\Include\NUC1xx-LB_002-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-o .\obj\lcd_driver.o --omf_browse .\obj\lcd_driver.crf --depend .\obj\lcd_driver.d)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h)(0x4E1D70D8)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\CMSIS\CM0\CoreSupport\core_cm0.h)(0x4E1D70D8)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h)(0x4E1D70D8)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\System\SysInfra.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\System\ModuleID.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\Driver\DrvSYS.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\Driver\DrvSPI.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\Driver\DrvGPIO.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\NUC1xx-LB_002\LCD_Driver.h)(0x4E1D70F4)
+F (..\..\..\Src\NUC1xx-LB_002\Ascii_Table.C)(0x4E1D7110)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\ -I..\..\..\..\CMSIS\CM0\CoreSupport -I..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx -I..\..\..\Include -I..\..\..\Include\Driver -I..\..\..\Include\NUC1xx-LB_002-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-o .\obj\ascii_table.o --omf_browse .\obj\ascii_table.crf --depend .\obj\ascii_table.d)
+F (..\..\..\Src\NUC1xx-LB_002\Seven_Segment.c)(0x529DB104)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\ -I..\..\..\..\CMSIS\CM0\CoreSupport -I..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx -I..\..\..\Include -I..\..\..\Include\Driver -I..\..\..\Include\NUC1xx-LB_002-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-o .\obj\seven_segment.o --omf_browse .\obj\seven_segment.crf --depend .\obj\seven_segment.d)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7C554)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h)(0x4E1D70D8)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\CMSIS\CM0\CoreSupport\core_cm0.h)(0x4E1D70D8)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h)(0x4E1D70D8)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\System\SysInfra.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\System\ModuleID.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\Driver\DrvGPIO.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\Driver\DrvSYS.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\NUC1xx-LB_002\Seven_Segment.h)(0x4E1D70F4)
+F (..\..\..\Src\NUC1xx-LB_002\ScanKey.c)(0x4E1D7110)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\ -I..\..\..\..\CMSIS\CM0\CoreSupport -I..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx -I..\..\..\Include -I..\..\..\Include\Driver -I..\..\..\Include\NUC1xx-LB_002-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-o .\obj\scankey.o --omf_browse .\obj\scankey.crf --depend .\obj\scankey.d)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7C554)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\Driver\DrvGPIO.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h)(0x4E1D70D8)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\CMSIS\CM0\CoreSupport\core_cm0.h)(0x4E1D70D8)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h)(0x4E1D70D8)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\System\SysInfra.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\System\ModuleID.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\NUC1xx-LB_002\ScanKey.h)(0x4E1D70F4)
+F (..\..\..\Src\NUC1xx-LB_002\EEPROM_24LC64.c)(0x4E1D7110)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\ -I..\..\..\..\CMSIS\CM0\CoreSupport -I..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx -I..\..\..\Include -I..\..\..\Include\Driver -I..\..\..\Include\NUC1xx-LB_002-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-o .\obj\eeprom_24lc64.o --omf_browse .\obj\eeprom_24lc64.crf --depend .\obj\eeprom_24lc64.d)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7C554)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h)(0x4E1D70D8)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\CMSIS\CM0\CoreSupport\core_cm0.h)(0x4E1D70D8)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h)(0x4E1D70D8)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\System\SysInfra.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\System\ModuleID.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\Driver\DrvGPIO.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\Driver\DrvI2C.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\Driver\DrvSYS.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\NUC1xx-LB_002\EEPROM_24LC64.h)(0x4E1D70F4)
+F (..\..\..\Src\Driver\DrvSPI.c)(0x4E1D7110)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\ -I..\..\..\..\CMSIS\CM0\CoreSupport -I..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx -I..\..\..\Include -I..\..\..\Include\Driver -I..\..\..\Include\NUC1xx-LB_002-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-o .\obj\drvspi.o --omf_browse .\obj\drvspi.crf --depend .\obj\drvspi.d)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h)(0x4E1D70D8)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\CMSIS\CM0\CoreSupport\core_cm0.h)(0x4E1D70D8)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h)(0x4E1D70D8)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\System\SysInfra.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\System\ModuleID.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\Driver\DrvSPI.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\Driver\DrvSYS.h)(0x4E1D70F4)
+F (..\..\..\Src\Driver\DrvSYS.c)(0x4E1D7110)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\ -I..\..\..\..\CMSIS\CM0\CoreSupport -I..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx -I..\..\..\Include -I..\..\..\Include\Driver -I..\..\..\Include\NUC1xx-LB_002-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-o .\obj\drvsys.o --omf_browse .\obj\drvsys.crf --depend .\obj\drvsys.d)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7C554)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\Driver\DrvSYS.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h)(0x4E1D70D8)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\CMSIS\CM0\CoreSupport\core_cm0.h)(0x4E1D70D8)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h)(0x4E1D70D8)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\System\SysInfra.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\System\ModuleID.h)(0x4E1D70F4)
+F (..\..\..\Src\Driver\DrvUART.c)(0x4E1D7110)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\ -I..\..\..\..\CMSIS\CM0\CoreSupport -I..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx -I..\..\..\Include -I..\..\..\Include\Driver -I..\..\..\Include\NUC1xx-LB_002-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-o .\obj\drvuart.o --omf_browse .\obj\drvuart.crf --depend .\obj\drvuart.d)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7C554)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h)(0x4E1D70D8)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\CMSIS\CM0\CoreSupport\core_cm0.h)(0x4E1D70D8)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h)(0x4E1D70D8)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\System\SysInfra.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\System\ModuleID.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\Driver\DrvUART.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\Driver\DrvSYS.h)(0x4E1D70F4)
+F (..\..\..\Src\Driver\DrvGPIO.c)(0x4E1D710E)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\ -I..\..\..\..\CMSIS\CM0\CoreSupport -I..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx -I..\..\..\Include -I..\..\..\Include\Driver -I..\..\..\Include\NUC1xx-LB_002-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-o .\obj\drvgpio.o --omf_browse .\obj\drvgpio.crf --depend .\obj\drvgpio.d)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7C554)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h)(0x4E1D70D8)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\CMSIS\CM0\CoreSupport\core_cm0.h)(0x4E1D70D8)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h)(0x4E1D70D8)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\System\SysInfra.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\System\ModuleID.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\Driver\DrvGPIO.h)(0x4E1D70F4)
+F (..\..\..\Src\Driver\retarget.c)(0x4E1D7110)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\ -I..\..\..\..\CMSIS\CM0\CoreSupport -I..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx -I..\..\..\Include -I..\..\..\Include\Driver -I..\..\..\Include\NUC1xx-LB_002-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-o .\obj\retarget.o --omf_browse .\obj\retarget.crf --depend .\obj\retarget.d)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7C554)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h)(0x4E1D70D8)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\CMSIS\CM0\CoreSupport\core_cm0.h)(0x4E1D70D8)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h)(0x4E1D70D8)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\System\SysInfra.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\System\ModuleID.h)(0x4E1D70F4)
+F (..\..\..\Src\Driver\DrvI2C.c)(0x4E1D710E)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\ -I..\..\..\..\CMSIS\CM0\CoreSupport -I..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx -I..\..\..\Include -I..\..\..\Include\Driver -I..\..\..\Include\NUC1xx-LB_002-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\PACK\ARM\CMSIS\3.20.3\CMSIS\Include-o .\obj\drvi2c.o --omf_browse .\obj\drvi2c.crf --depend .\obj\drvi2c.d)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7C554)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\Driver\DrvI2C.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h)(0x4E1D70D8)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\CMSIS\CM0\CoreSupport\core_cm0.h)(0x4E1D70D8)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h)(0x4E1D70D8)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\System\SysInfra.h)(0x4E1D70F4)
+I (C:\Nuvoton\BSP Library\NUC100SeriesBSP_v1.05.001\NuvotonPlatform_Keil\Include\System\ModuleID.h)(0x4E1D70F4)
